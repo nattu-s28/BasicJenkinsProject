@@ -5,7 +5,7 @@ def main():
     print("-----------------")
 
     a = 10
-    b = 5
+    b = 10
 
     print("Addition:", add(a, b))
     print("Subtraction:", subtract(a, b))
