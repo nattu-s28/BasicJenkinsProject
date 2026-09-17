@@ -7,15 +7,15 @@ def main():
     a = 10
     b = 10
 
-    print("-----------------")
+    print("----------------")
     print("Addition:", add(a, b))
-    print("-----------------")
+    print("----------------")
     print("Subtraction:", subtract(a, b))
-    print("-----------------")
+    print("----------------")
     print("Multiplication:", multiply(a, b))
-    print("-----------------")
+    print("----------------")
     print("Division:", divide(a, b))
-    print("-----------------")
+    print("----------------")
 
 
 if __name__ == "__main__":
